@@ -1,8 +1,7 @@
 # Software Engineering Senior Project
 # csc648-team07
 
-- add ALL your team members to your team's repo.
-  
+Team members:  
 - [Team Lead] Sean Sutherland
 - [Front End Lead] Lance Larsen
 - [Back End Lead] Corey Humeston
