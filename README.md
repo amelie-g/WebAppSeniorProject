@@ -1,6 +1,8 @@
 # Software Engineering Senior Project
 
 Web application for users to report environmental issues
+
+
 See documentation for details and screenshots of app
 
 # csc648-team07
