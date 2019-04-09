@@ -1,5 +1,10 @@
 # Software Engineering Senior Project
+
+Web application for users to report environmental issues
+See documentation for details and screenshots of app
+
 # csc648-team07
+
 
 Team members:  
 - [Team Lead] Sean Sutherland
@@ -10,6 +15,7 @@ Team members:
 - [Back End] Amelie Cameron
 - [Back End]  Ali Alavi
 
+
 # To Work on Repo
 
 ```diff
@@ -19,6 +25,7 @@ Team members:
 + Go to a directory (desktop for ease of access)
 + git clone "paste from clipboard here"
 
+
 ## Backend Stuff for Us to Remember
 
 - heroku run python manage.py migrate
@@ -26,6 +33,7 @@ Team members:
 
 - give everyone SSH key for repo
 - ask Anthony questions about Heroku
+
 
 ## Windows Users
 0) add to collaborators
@@ -42,6 +50,7 @@ Team members:
 10) python manage.py collectstatic (if it asks question, type ‘yes’)
 11) heroku local web -f Procfile.windows
 
+
 ## Requirements.txt 
 
 Installing Prerequisite Python Packages:
@@ -50,6 +59,7 @@ Installing Prerequisite Python Packages:
 3) run: pip install -r requirements.txt in your shell
 
 https://pip.readthedocs.io/en/1.1/requirements.html
+
 
 ## Quick Commands
 
